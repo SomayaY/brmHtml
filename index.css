@@ -1,0 +1,77 @@
+.whole-table {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 766;
+    background: #fff;
+    border: 3px solid rgb(157, 203, 227);
+    border-radius: 4px;
+    width: 100%;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    padding-top: 10px;
+}
+
+#title {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgba(83, 155, 194, 0.949);
+}
+
+.header-table {
+    background: rgb(157, 203, 227);
+    font-weight: bold;
+
+
+}
+
+td:hover.img {
+    background: rgb(195, 186, 186);
+}
+
+td {
+    border: 3px solid rgb(157, 203, 227);
+    text-align: center;
+   
+}
+
+#tit {
+    text-align: center;
+    color: #fff;
+    
+}
+
+.inspection{
+
+    background-color:  rgb(157, 203, 227);
+    border: 3px solid  rgba(83, 155, 194, 0.949);
+    text-align: center;
+    border-radius: 8px;
+    color: #fff;
+    
+
+}
+
+.form{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 766;
+    border: 3px solid rgb(157, 203, 227);
+    color: rgba(83, 155, 194, 0.949);
+    border-radius: 8px;
+
+}
+.btn{
+    background-color:  #fff;
+    border: 3px solid  rgba(83, 155, 194, 0.949);
+    text-align: center;
+    border-radius: 8px;
+    color: rgba(83, 155, 194, 0.949);
+}
+
+
